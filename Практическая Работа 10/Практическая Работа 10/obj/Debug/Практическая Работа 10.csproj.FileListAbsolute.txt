@@ -1,0 +1,11 @@
+C:\Users\golya\source\repos\Практическая Работа 10\Практическая Работа 10\bin\Debug\Практическая Работа 10.exe.config
+C:\Users\golya\source\repos\Практическая Работа 10\Практическая Работа 10\bin\Debug\Практическая Работа 10.exe
+C:\Users\golya\source\repos\Практическая Работа 10\Практическая Работа 10\bin\Debug\Практическая Работа 10.pdb
+C:\Users\golya\source\repos\Практическая Работа 10\Практическая Работа 10\obj\Debug\Практическая Работа 10.csproj.AssemblyReference.cache
+C:\Users\golya\source\repos\Практическая Работа 10\Практическая Работа 10\obj\Debug\Практическая_Работа_10.Form1.resources
+C:\Users\golya\source\repos\Практическая Работа 10\Практическая Работа 10\obj\Debug\Практическая_Работа_10.Form2.resources
+C:\Users\golya\source\repos\Практическая Работа 10\Практическая Работа 10\obj\Debug\Практическая_Работа_10.Properties.Resources.resources
+C:\Users\golya\source\repos\Практическая Работа 10\Практическая Работа 10\obj\Debug\Практическая Работа 10.csproj.GenerateResource.cache
+C:\Users\golya\source\repos\Практическая Работа 10\Практическая Работа 10\obj\Debug\Практическая Работа 10.csproj.CoreCompileInputs.cache
+C:\Users\golya\source\repos\Практическая Работа 10\Практическая Работа 10\obj\Debug\Практическая Работа 10.exe
+C:\Users\golya\source\repos\Практическая Работа 10\Практическая Работа 10\obj\Debug\Практическая Работа 10.pdb
